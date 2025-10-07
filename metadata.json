@@ -1,0 +1,5 @@
+{
+  "name": "FitAI",
+  "description": "An AI-powered web app to help users achieve their weight loss and muscle gain goals. It provides a personalized assessment, generates a comprehensive fitness and nutrition plan using Gemini, and offers an AI assistant for guidance.",
+  "requestFramePermissions": []
+}
